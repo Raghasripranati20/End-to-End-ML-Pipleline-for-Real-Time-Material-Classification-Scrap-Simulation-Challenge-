@@ -4,7 +4,7 @@ This repository contains an end-to-end machine learning pipeline for classifying
 
 📂 Repository Structure
 .
-├── src/                # All source code (training, evaluation, inference)
+├── src/              # All source code (training, evaluation, inference)
 │   └── main.py
 
 
@@ -68,10 +68,33 @@ Place it inside the data/ folder:
 
 data/
 ├── cardboard/
+
+
+
+
+
 ├── glass/
+
+
+
+
+
 ├── metal/
+
+
+
+
+
 ├── paper/
+
+
+
 ├── plastic/
+
+
+
+
+
 └── trash/
 
 4. Run training
