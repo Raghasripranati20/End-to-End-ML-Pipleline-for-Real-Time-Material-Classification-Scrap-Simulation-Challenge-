@@ -6,13 +6,32 @@ This repository contains an end-to-end machine learning pipeline for classifying
 .
 ├── src/                # All source code (training, evaluation, inference)
 │   └── main.py
+
+
+
+
+
 ├── data/               # Dataset (not included; link in instructions)
 │   ├── train/
 │   └── test/
+
+
+
+
+
 ├── models/             # Trained models (PyTorch & ONNX formats)
 │   └── resnet18_scrap.onnx
+
+
+
+
 ├── results/            # Evaluation outputs & screenshots
 │   └── output.csv
+
+
+
+
+
 ├── README.md           # Project instructions
 └── performance_report.md # Visual summary with key results
 
