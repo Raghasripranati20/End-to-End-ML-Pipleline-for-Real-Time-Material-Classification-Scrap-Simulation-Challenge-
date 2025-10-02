@@ -67,6 +67,10 @@ We used the TrashNet Dataset. Download from:
 Place it inside the data/ folder:
 
 data/
+
+
+
+
 ├── cardboard/
 
 
